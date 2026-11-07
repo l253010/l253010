@@ -2,7 +2,7 @@
   <img src="./petals-banner.svg" alt="Eman Fatima — cherry blossom banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm Eman Fatima 🌸</h1>
+
 <h3 align="center">Blending creativity and logic to build clean, scalable full-stack web applications & AI agents 💻🤖🌤️</h3>
 
 <p align="center">
