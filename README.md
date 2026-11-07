@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,29&height=170&section=header&text=Eman%20Fatima&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Agents%20Learner&descColor=EDE7F6&descSize=18&descAlignY=60" width="100%" alt="Eman Fatima" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6B3FA0&height=170&section=header&text=Eman%20Fatima&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Agents%20Learner&descColor=EDE7F6&descSize=18&descAlignY=60" width="100%" alt="Eman Fatima" />
 </p>
 
 <h1 align="center">Hi there, I'm Eman Fatima 💜</h1>
@@ -83,7 +83,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,29&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6B3FA0&height=100&section=footer" width="100%" />
 </p>
 
 <p align="center"><i>💜 Thanks for visiting my profile! Feel free to explore my repositories.</i></p>
