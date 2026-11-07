@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="./petals-banner.svg" alt="Eman Fatima — cherry blossom banner" width="100%" />
+</p>
+
 <h1 align="center">Hi there, I'm Eman Fatima 🌸</h1>
-<h3 align="center">Blending creativity and logic to build clean, scalable, full-stack web applications 💻🌤️</h3>
+<h3 align="center">Blending creativity and logic to build clean, scalable full-stack web applications & AI agents 💻🤖🌤️</h3>
 
 <p align="center">
   <a href="https://github.com/l253010">
@@ -9,16 +13,18 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-87CEEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-AI%20Agents-FF69B4?style=for-the-badge" />
 </p>
 
 ---
 
 ### 🌸 About Me
-- 🔭 I'm currently building full-stack web apps with the **MERN stack**
+- 🔭 Building full-stack web apps with the **MERN stack**
+- 🤖 Interested in **AI agents** — currently learning how to design and build them from scratch
 - 🌱 Growing my skills in clean, maintainable, production-ready code
 - 💡 I love blending solid backend logic with smooth, seamless UI
-- 📫 Let's connect — see contact links below
-- ⚡ Learning AI agents nowadays!
+- 📫 Let's connect — contact links below
+- ⚡ Fun fact: I enjoy turning messy ideas into working software, one commit at a time
 
 ---
 
@@ -39,6 +45,13 @@
   <img src="https://img.shields.io/badge/Express.js-FFC0CB?style=for-the-badge&logo=express&logoColor=black" />
   <img src="https://img.shields.io/badge/React-ADE8F4?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-FFB6C1?style=for-the-badge&logo=node.js&logoColor=black" />
+</p>
+
+**AI & Agents (Learning)**
+<p>
+  <img src="https://img.shields.io/badge/AI%20Agents-FFB6C1?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-87CEEB?style=for-the-badge&logo=langchain&logoColor=black" />
+  <img src="https://img.shields.io/badge/LLMs-FFDDEA?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
 **Tools & Platforms**
@@ -63,13 +76,14 @@
 ---
 
 ### 🌷 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/eman-fatima-b27609407?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-  <a href="mailto:
-emancyber56@gmail.com"><img src="https://img.shields.io/badge/Email-87CEEB?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/eman-fatima-b27609407"><img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="mailto:emancyber56@gmail.com"><img src="https://img.shields.io/badge/Email-87CEEB?style=for-the-badge&logo=gmail&logoColor=black" /></a>
   <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-FFDDEA?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=110&section=footer" width="100%" />
+</p>
 
 <p align="center"><i>🌸 Thanks for visiting my profile! Feel free to explore my repositories. 🌤️</i></p>
