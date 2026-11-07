@@ -63,6 +63,45 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔔 <a href="https://github.com/l253010/whatsapp-notification-router-agent">Signalwise</a></h4>
+      <img src="https://img.shields.io/badge/Hackathon-HackerRank%20Orchestrate-6B3FA0?style=flat-square" />
+      <img src="https://img.shields.io/badge/Individual-B39DDB?style=flat-square&logoColor=black" /><br/>
+      AI-powered WhatsApp notification router that decides whether each message should notify, digest, or mute, using Gemini with built-in safety guardrails.<br/>
+      <sub><b>Python · Gemini</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⭐ <a href="https://github.com/l253010/Pacman-game">Pac-Dora: Star Catcher</a></h4>
+      <img src="https://img.shields.io/badge/Semester%20Project-PF-8E5BC4?style=flat-square" />
+      <img src="https://img.shields.io/badge/Team-D1C4E9?style=flat-square&logoColor=black" /><br/>
+      A Dora-themed Pac-Man game with 7 levels and BFS-based enemy AI, built with C++ and SFML.<br/>
+      <sub><b>C++ · SFML</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔨 <a href="https://github.com/l253010/OOP-Project-SEMESTER-2">AuctionSystem</a></h4>
+      <img src="https://img.shields.io/badge/Semester%20Project-OOP-8E5BC4?style=flat-square" />
+      <img src="https://img.shields.io/badge/Team-D1C4E9?style=flat-square&logoColor=black" /><br/>
+      Real-time auction system with English and Dutch auctions, multi-role users, wallets, and SQLite persistence.<br/>
+      <sub><b>C++ · SFML · SQLite</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔌 <a href="https://github.com/l253010/DigitalLogicsStudio">Digital Logics Studio</a></h4>
+      <img src="https://img.shields.io/badge/Internship-QuantumLogics-6B3FA0?style=flat-square" />
+      <img src="https://img.shields.io/badge/Team-D1C4E9?style=flat-square&logoColor=black" /><br/>
+      A web platform for learning and simulating digital logic design (DLD) and COAL. I contributed as a front-end developer.<br/>
+      <sub><b>JavaScript · Web</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=l253010&show_icons=true&title_color=6B3FA0&icon_color=9B6BCF&text_color=333333&bg_color=FAF7FF&border_color=D1C4E9" />
