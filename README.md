@@ -18,7 +18,7 @@
 - 🌱 Growing my skills in clean, maintainable, production-ready code
 - 💡 I love blending solid backend logic with smooth, seamless UI
 - 📫 Let's connect — see contact links below
-- ⚡ Fun fact: I enjoy turning messy ideas into working software, one commit at a time
+- ⚡ Learning AI agents nowadays!
 
 ---
 
@@ -64,8 +64,9 @@
 
 ### 🌷 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-87CEEB?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/eman-fatima-b27609407?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="mailto:
+emancyber56@gmail.com"><img src="https://img.shields.io/badge/Email-87CEEB?style=for-the-badge&logo=gmail&logoColor=black" /></a>
   <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-FFDDEA?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
 
