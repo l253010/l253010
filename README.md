@@ -118,7 +118,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/eman-fatima-b27609407"><img src="https://img.shields.io/badge/LinkedIn-6B3FA0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:emancyber56@gmail.com"><img src="https://img.shields.io/badge/Email-8E5BC4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-B39DDB?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://eman-fatima-portfolio-psi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-B39DDB?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
 
 <p align="center">
